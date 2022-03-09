@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Hacer las compras para la cena",
+      "day": "Jueves a las 18:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Terminar la unidad 4 del curso",
+      "day": "Viernes a las 11:00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Llevar a Felipe a la peluqueria",
+      "day": "Miércoles a las 16:30",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
